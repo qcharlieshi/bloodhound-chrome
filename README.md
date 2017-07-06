@@ -1,0 +1,2 @@
+# bloodhound-chrome
+Chrome extension
